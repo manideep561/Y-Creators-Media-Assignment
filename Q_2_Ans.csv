@@ -1,0 +1,6 @@
+Questions,Answers
+How many students in total are enrolled with the tuition provider?,319
+How many students have taken all the five subjects?,37
+Which class has the most number of students?,"[6, 7, 8, 9, 10]"
+Which class has the highest average percentage of marks across all subjects?,5
+Which subject has the highest average percentage of marks across all classes?,Physics_marks_%
